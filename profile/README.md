@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="120" valign="middle">
-      <img src="./.github/profile/logo.png" alt="CubeNest Studios Logo" width="108" />
+      <img src="logo.png" alt="CubeNest Studios Logo" width="108" />
     </td>
     <td valign="middle">
       <h1>CubeNest Studios</h1>
@@ -95,5 +95,5 @@ Bir fonta tıklayarak kopyalayabilir ve oyun içinde, aktif bir kaynak paketi va
 ---
 
 <p align="center">
-  <img src="./.github/profile/bannercn.png" alt="CubeNest Studios Banner" width="100%" />
+  <img src="bannercn.png" alt="CubeNest Studios Banner" width="100%" />
 </p>
