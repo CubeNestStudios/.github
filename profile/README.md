@@ -1,63 +1,114 @@
+<div align="center">
+
 <table>
-  <tr>
-    <td width="120" valign="middle">
-      <img src="logo.png" alt="CubeNest Studios Logo" width="108" />
-    </td>
-    <td valign="middle">
-      <h1>CubeNest Studios</h1>
-      <p>
-        Minecraft oyuncuları, içerik üreticileri, geliştiriciler ve tasarımcılar için faydalı araçlar geliştiren modern bir stüdyodur.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="140">
+
+<img src="./logo.png" width="110" alt="CubeNest Studios Logo"/>
+
+</td>
+
+<td align="left">
+
+# CubeNest Studios
+
+Modern Minecraft araçları geliştiren bağımsız bir stüdyo.  
+Oyuncular, geliştiriciler, içerik üreticileri ve tasarımcılar için güçlü araçlar oluşturuyoruz.
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-cubenest.xyz-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://cubenest.xyz/)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://cubenest.xyz/discord/)
+[![GitHub](https://img.shields.io/badge/GitHub-CubeNestStudios-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/CubeNestStudios)
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-CubeNest%20Studios-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active%20Development-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Minecraft%20Tools-06b6d4?style=for-the-badge&logo=minecraft&logoColor=white" />
-</p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=3000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Modern+Minecraft+Utilities;Tools+for+Players%2C+Creators+and+Developers;CubeNest+Studios+Official+GitHub+Organization" />
+
+</div>
 
 ---
 
-## Hakkımızda
+# About CubeNest Studios
 
-CubeNest Studios, hazırlıkları 2025 yılının ortalarında başlayan ve 2026 yılının ilk aylarına kadar proje planı şekillendirilen bir organizasyondur. Resmi duyuru 14 Şubat 2026 tarihinde yapılmıştır.
+CubeNest Studios is an independent organization focused on building modern tools for the Minecraft community.
 
-İlk proje olan **CubeNest**, Minecraft ekosistemine yönelik araçlar sunmayı hedefler. Amacımız; oyuncular, içerik üreticileri, geliştiriciler ve tasarımcılar için işleri kolaylaştıran, kullanımı pratik ve modern araçlar üretmektir.
+Preparations for the project started in mid-2025, development plans continued until early 2026, and the organization was officially announced on **February 14, 2026**.
 
-Henüz yeni bir yapı olsak da sistemi sürekli güncel tutuyor, yeni araçlar ekliyor ve gelecekte CubeNest’in tam sürüme geçişinden sonra yeni projeler üzerinde çalışmayı planlıyoruz.
+Our first project, **CubeNest**, aims to simplify the Minecraft experience for:
+- Players
+- Developers
+- Content creators
+- Designers
 
----
+Even though the project is still new, we continue to actively improve the platform by releasing updates and developing new tools for the community.
 
-## CubeNest Nedir?
-
-CubeNest, Minecraft topluluğu için geliştirilmiş çok amaçlı bir araç platformudur. Şu anda 4 farklı araç içerir:
-
-### Server Status
-Minecraft Bedrock ve Java sunucularının oyuncu sayısını, ping değerlerini ve sunucu bilgilerini görüntülemenizi sağlar.  
-Ayrıca günümüzde en popüler olan 3 sunucuya hızlı erişim sunar.
-
-### Player Viewer
-Minecraft Java oyuncularının isimlerini girerek:
-- skinlerini 3D şekilde görüntüleyebilir,
-- kafa komutlarını alabilir,
-- UUID bilgilerini görebilir,
-- skinlerini indirebilirsiniz.
-
-Ayrıca günümüzde en çok aranan 3 oyuncuda bulunan etiketlere hızlı erişim sağlar.
-
-### Manifest Creator
-Minecraft Bedrock kaynak paketleri için `manifest.json` dosyalarını kolayca oluşturmanı sağlar.  
-Gerekli bilgileri girdiğinde sana tam kodu üretir ve dosyanı hızlıca hazırlamana yardımcı olur.
-
-### Glyph Mapper
-Minecraft Bedrock kaynak paketlerinin `fonts` klasöründe bulunan `glyph_XX.png` dosyalarını yükleyerek kolayca görüntülemeni sağlar.  
-Bir fonta tıklayarak kopyalayabilir ve oyun içinde, aktif bir kaynak paketi varsa, kullanabilirsin.
+After CubeNest reaches a full stable release, we also plan to begin development on future projects under CubeNest Studios.
 
 ---
 
-## Yakında Gelecek Araçlar
+# CubeNest
+
+CubeNest is a multi-tool platform developed specifically for the Minecraft community.
+
+Currently available tools:
+
+---
+
+## Server Status
+
+Monitor Minecraft Java & Bedrock servers instantly.
+
+### Features
+- Online player count
+- Ping information
+- Server details
+- Quick access to the 3 most popular servers
+
+---
+
+## Player Viewer
+
+Advanced Minecraft Java player viewer.
+
+### Features
+- 3D skin preview
+- UUID lookup
+- Download skins
+- Head command generator
+- Quick access to popular player tags
+
+---
+
+## Manifest Creator
+
+Generate Minecraft Bedrock `manifest.json` files easily.
+
+### Features
+- Automatic JSON generation
+- Simple interface
+- Fast manifest creation
+- Ready-to-use output
+
+---
+
+## Glyph Mapper
+
+Visualize and copy Bedrock glyph fonts easily.
+
+### Features
+- Upload `glyph_XX.png`
+- Preview glyph characters
+- One-click copy support
+- Resource pack compatibility
+
+---
+
+# Planned Tools
 
 - Motd Editor
 - Circle Generator
@@ -65,35 +116,61 @@ Bir fonta tıklayarak kopyalayabilir ve oyun içinde, aktif bir kaynak paketi va
 
 ---
 
-## Kullanılan Teknolojiler
+# Technologies
 
-**Diller ve araçlar:**
-- HTML
-- CSS
-- JavaScript
-- Astro
-- Git
-- Vercel
-- Node.js
-- Font Awesome
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,astro,nodejs,git,github,vercel,vscode" />
+
+</div>
 
 ---
 
-## Ekip
+# Team
 
-- **xFrightfull** — Kurucu Lider Geliştirici
-- **DustFluffyDev** — Kurucu Ortak Lider Geliştirici
+<div align="center">
 
----
+| Member | Role |
+|---|---|
+| **xFrightfull** | Founder • Lead Developer |
+| **DustFluffyDev** | Co-Founder • Lead Developer |
 
-## Bağlantılar
-
-- GitHub: [CubeNest Studios](https://github.com/CubeNestStudios)
-- Web: [cubenest.xyz](https://cubenest.xyz/)
-- Discord: [CubeNest Discord](https://cubenest.xyz/discord/)
+</div>
 
 ---
 
-<p align="center">
-  <img src="bannercn.png" alt="CubeNest Studios Banner" width="100%" />
-</p>
+# Links
+
+<div align="center">
+
+<a href="https://github.com/CubeNestStudios">
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://cubenest.xyz/">
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="48"/>
+</a>
+
+<a href="https://cubenest.xyz/discord/">
+  <img src="https://skillicons.dev/icons?i=discord" width="48"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[GitHub](https://github.com/CubeNestStudios) •
+[Website](https://cubenest.xyz/) •
+[Discord](https://cubenest.xyz/discord/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./bannercn.png" width="100%" alt="CubeNest Studios Banner"/>
+
+</div>
