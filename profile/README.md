@@ -133,7 +133,7 @@ Visualize and copy Bedrock glyph fonts easily.
 | Member | Role |
 |---|---|
 | **xFrightfull** | Founder • Lead Developer |
-| **DustFluffyDev** | Co-Founder • Lead Developer |
+| **DustFluffyDev** | Friend • Developer |
 
 </div>
 
